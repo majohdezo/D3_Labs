@@ -3,21 +3,24 @@
 This repo contains the evidence of my work on D3 Labs.
 
 
-## Instructions:
+## Languages:
+
 ```
-Languages: 
-Python (3.8.2 version)
 HTML
 JavaScript
 
 ```
 
+## Before Starting:
+
+You need to run a local server. 
+
 ### Exercises
 
 - Exercise 1: [Fundamentals](https://github.com/majohdezo/D3_Labs/tree/master/Excercise1-Fundamentals) 
-- xercise 2: [Data Binding](https://github.com/majohdezo/D3_Labs/tree/master/Excercise2-Data_Binding)
+- Exercise 2: [Data Binding](https://github.com/majohdezo/D3_Labs/tree/master/Excercise2-Data_Binding)
 - Exercise 3: [Data Loading](https://github.com/majohdezo/D3_Labs/tree/master/Excercise3-Data_Loading)
-- Challengue 1: [Buildings of the world](https://github.com/majohdezo/D3_Labs/tree/master/Challenge1)
+- Challenge 1: [Buildings of the world](https://github.com/majohdezo/D3_Labs/tree/master/Challenge1)
 - Exercise 4: [Scales](https://github.com/majohdezo/D3_Labs/tree/master/Excercise4-Scales)
 - Exercise 5: [Margins Groups Axis Labels](https://github.com/majohdezo/D3_Labs/tree/master/Excercise5-Margins_Groups_Axis_Labels)
 - Project I: [Star Brewery](https://github.com/majohdezo/D3_Labs/tree/master/Project1-Star_Brewery)

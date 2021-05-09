@@ -1,0 +1,5 @@
+# Output
+
+
+![image](StackedChart.png)
+

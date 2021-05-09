@@ -8,6 +8,7 @@ This repo contains the evidence of my work on D3 Labs.
 ```
 HTML
 JavaScript
+CSS
 ```
 
 ## Before Starting:
